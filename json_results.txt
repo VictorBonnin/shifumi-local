@@ -1,0 +1,437 @@
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Jori":"paper","Victor":"rock"},"winner":"Jori gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 81
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 09:53:24 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Jori":"paper","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 81], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 09:53:24 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 81
+
+--
+
+tatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 09:56:07 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 09:56:07 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"scissors"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 86
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 09:58:07 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 86], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 09:58:07 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 86
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 09:58:35 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 09:58:35 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 09:58:56 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 09:58:56 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"scissors","Victor":"paper"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 87
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:09:00 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"scissors","Vic...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 87], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:09:00 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 87
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"scissors"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 86
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:09:18 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 86], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:09:18 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 86
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:09:48 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:09:48 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:11:01 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:11:01 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"scissors"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 86
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:11:25 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 86], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:11:25 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 86
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"rock"},"winner":"Match nul !"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 68
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:11:48 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 68], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:11:48 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 68
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"scissors","Victor":"paper"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 87
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:12:10 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"scissors","Vic...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 87], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:12:10 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 87
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:12:32 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:12:32 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"rock"},"winner":"Match nul !"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 68
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:12:51 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 68], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:12:51 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 68
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"scissors"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 86
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:13:09 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 86], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:13:09 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 86
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"scissors","Victor":"paper"},"winner":"Joris gagne, Victor perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 87
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:13:27 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"scissors","Vic...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 87], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:13:27 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 87
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"paper","Victor":"scissors"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 87
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:13:44 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"paper","Victor...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 87], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:13:44 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 87
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"rock"},"winner":"Match nul !"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 68
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:11:48 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 68], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:11:48 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 68
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:09:48 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:09:48 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
+
+--
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {"choices":{"Joris":"rock","Victor":"paper"},"winner":"Victor gagne, Joris perd!"}
+
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    Content-Length: 83
+                    Content-Type: application/json
+                    Date: Tue, 09 Jul 2024 12:14:30 GMT
+                    Server: Werkzeug/3.0.3 Python/3.8.19
+
+                    {"choices":{"Joris":"rock","Victor"...
+Forms             : {}
+Headers           : {[Connection, close], [Content-Length, 83], [Content-Type, application/json], [Date, Tue, 09 Jul 2024 12:14:30 GMT]...}  
+Images            : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        : mshtml.HTMLDocumentClass
+RawContentLength  : 83
